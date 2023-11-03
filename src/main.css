@@ -1,0 +1,20 @@
+/* smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+:root{
+--background-color: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+}
+
+h5 {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+  line-height: 2rem;
+  margin-bottom: 1rem;
+}
+
+footer {
+  text-align: justify;
+   padding: .5rem;
+}
